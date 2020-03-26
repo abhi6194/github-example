@@ -1,2 +1,2 @@
 # github-example
-the repository is a demonstration of how to create a github repository and properly set it up
+Hello Capstone Project Course!
